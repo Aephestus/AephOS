@@ -11,7 +11,7 @@ If you discover a security vulnerability, please report it privately.
 
 Do not open a public issue for security-related reports.
 
-Contact: security@aephestus.com
+Contact: aephestus@outlook.com
 
 Important Notice
 
