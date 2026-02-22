@@ -1,5 +1,9 @@
 ---
 
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+---
+
 # AephOS
 
 AephOS is an experimental operating system built from firmware upward.
