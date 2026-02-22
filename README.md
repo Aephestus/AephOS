@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Build](https://img.shields.io/badge/build-pending-lightgrey)
+![Language](https://img.shields.io/badge/language-C-blue)
+![Last Commit](https://img.shields.io/github/last-commit/Aephestus/AephOS/main)
 
 ---
 
