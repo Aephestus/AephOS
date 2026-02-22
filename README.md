@@ -64,7 +64,7 @@ Further build instructions will be documented as the AKS bootstrap stabilizes.
 
 ![License](https://img.shields.io/badge/license-APNCL-blue)
 ![Build](https://img.shields.io/badge/build-pending-lightgrey)
-![Language](https://img.shields.io/badge/language-C-blue)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/Aephestus/AephOS/main)
 
 ---
