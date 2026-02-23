@@ -1,6 +1,6 @@
 ---
 
-# AephOS Public Non-Commercial Copyleft License (APNCL) v1.0
+# Aephestus Public Non-Commercial Copyleft License (APNCL) v1.0
 
 ## Copyright (c) 2026 Aephestus
 
